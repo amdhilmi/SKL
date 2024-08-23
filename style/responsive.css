@@ -1,0 +1,215 @@
+@media (max-width:321px) {
+    .home h1 {
+        display: flex;
+        flex-direction: column;
+    }
+    
+    .content-image img {
+        width:10rem ;
+    }
+
+.skills-container {
+    max-width: 150rem;
+    overflow-x: visible;
+}
+
+.skill-bar {
+    width: 100rem;
+}
+}
+
+@media (max-width:768px) {
+    .content-image img {
+        width:10rem ;
+    }
+
+    .home-content h1 {
+        font-size: 3rem;
+    }
+
+    .home-content h3 span {
+        font-size: 1.5rem;
+    }
+
+    .home-content h3 {
+        font-size: 1rem;
+    }
+
+    .skill-bar {
+        width: 5rem;
+    }
+}
+
+@media (max-width:570px) {
+    .home-content h1 {
+        font-size: 1rem;
+    }
+
+    .skill-bar {
+        width: 8rem;
+    }
+}
+
+@media (max-width:768px) {
+    .navbar a  {
+        font-size:1rem ;
+    }
+}
+
+@media (max-width:696px) {
+    .navbar a  {
+        font-size: .9em;
+    }
+}
+
+@media (max-width:664px) {
+    .navbar a  {
+        font-size: 80%;
+    }
+}
+
+@media (max-width:350px) {
+    .skills-container {
+        position: relative;
+        right: 5rem;
+    }
+}
+
+@media (max-width:922px) {
+    .skills-container {
+       width: 40rem;
+    }
+
+    .skill-bar {
+        width: 35rem;
+    }
+}
+
+@media (max-width:1250px) {
+    .skills-container {
+       width: 40rem;
+    }
+
+    .skill-bar {
+        width: 35rem;
+    }
+}
+
+@media (max-width:590px) {
+    .skills-container {
+       width: 40rem;
+    }
+
+    .skill-bar {
+        width: 35rem;
+    }
+}
+
+@media (max-width:1300px) {
+    .skills-container {
+       width: 40rem;
+    }
+
+    .skill-bar {
+        width: 35rem;
+    }
+}
+
+@media (max-width:780px) {
+    .skills-container {
+       width: 45rem;
+    }
+
+    .skill-bar {
+        width: 30rem;
+    }
+}
+
+@media (max-width:420px) {
+    .skills-container {
+       width: 15rem;
+    }
+
+    .skill-bar {
+        width: 10rem;
+    }
+}
+
+@media (max-width:370px) {
+    .skills-container {
+       width: 15rem;
+    }
+
+    .skill-bar {
+        width: 10rem;
+    }
+}
+
+@media (max-width:790) {
+    .footer {
+        width: 15rem;
+    }
+}
+
+@media (max-width:350px) {
+    .footer {
+        position: relative;
+        right: 5rem;
+    }
+}
+
+@media (max-width:922px) {
+    .footer {
+       width: 15rem;
+    }
+}
+
+@media (max-width:1250px) {
+    .footer {
+       width: 15rem;
+    }
+
+    .skill-bar {
+        width: 35rem;
+    }
+}
+
+@media (max-width:590px) {
+    .footer {
+       width: 15rem;
+    }
+}
+
+@media (max-width:1300px) {
+    .footer {
+       width: 15rem;
+    }
+}
+
+@media (max-width:780px) {
+     .footer {
+        width: 15rem;
+     }
+}
+
+@media (max-width:420px) {
+    .footer {
+       width: 15rem;
+    }
+}
+
+@media (max-width:370px) {
+    .footer {
+       width: 15rem;
+    }
+}
+
+@media (max-width:430) {
+    .skills-container {
+        width: 5rem;
+    }
+
+    .skill-bar {
+        width: 3rem;
+    }
+}
